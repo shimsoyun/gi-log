@@ -3139,7 +3139,7 @@ input, select, textarea {
 			}
 
 		.wrapper.style4 {
-			background-color: transparent;
+			background-color: RGB(248,208,68);
 		}
 
 		.wrapper.style5 {
@@ -3553,7 +3553,7 @@ input, select, textarea {
 					}
 
 		#header.alt {
-			background: transparent;
+			background: RGB(248,208,68);
 		}
 
 			#header.alt h1 {
