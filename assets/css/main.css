@@ -2980,7 +2980,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #8ac47cc7
 			color: rgb(0, 0, 0);
 		}
 
@@ -3034,7 +3034,7 @@ input, select, textarea {
 
 				.wrapper.style3 select option {
 					color: rgb(0, 0, 0)fff;
-					background: #505393;
+					background: #8ac47cc7;
 				}
 
 			.wrapper.style3 input[type="checkbox"] + label,
@@ -3044,13 +3044,13 @@ input, select, textarea {
 
 				.wrapper.style3 input[type="checkbox"] + label:before,
 				.wrapper.style3 input[type="radio"] + label:before {
-					background: rgba(255, 255, 255, 0.075);
+					background: white;
 				}
 
 			.wrapper.style3 input[type="checkbox"]:checked + label:before,
 			.wrapper.style3 input[type="radio"]:checked + label:before {
-				background: rgb(0, 0, 0)fff;
-				color: #505393;
+				background: white;
+				color: #8ac47cc7;
 			}
 
 			.wrapper.style3 ::-webkit-input-placeholder {
@@ -3086,7 +3086,7 @@ input, select, textarea {
 			}
 
 				.wrapper.style3 table tbody tr:nth-child(2n + 1) {
-					background-color: rgba(255, 255, 255, 0.075);
+					background-color: white;
 				}
 
 			.wrapper.style3 table th {
@@ -3119,7 +3119,7 @@ input, select, textarea {
 				.wrapper.style3 input[type="button"]:hover,
 				.wrapper.style3 button:hover,
 				.wrapper.style3 .button:hover {
-					background-color: rgba(255, 255, 255, 0.075);
+					background-color: white;
 				}
 
 				.wrapper.style3 input[type="submit"]:active,
@@ -3127,7 +3127,7 @@ input, select, textarea {
 				.wrapper.style3 input[type="button"]:active,
 				.wrapper.style3 button:active,
 				.wrapper.style3 .button:active {
-					background-color: rgba(255, 255, 255, 0.2);
+					background-color: white;
 				}
 
 			@media screen and (max-width: 736px) {
@@ -3144,16 +3144,15 @@ input, select, textarea {
 
 		.wrapper.style5 {
 			background-color: rgb(0, 0, 0)fff;
-			color: #4E4852;
+			color: #fff894;
 		}
 
 			.wrapper.style5 strong, .wrapper.style5 b {
-				color: #2E3842;
+				color: #fff894
 			}
 
 			.wrapper.style5 h2, .wrapper.style5 h3, .wrapper.style5 h4, .wrapper.style5 h5, .wrapper.style5 h6 {
-				color: #2E3842;
-			}
+				color: #fff894
 
 			.wrapper.style5 hr {
 				border-color: rgb(0, 0, 0);
